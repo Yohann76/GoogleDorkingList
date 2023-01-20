@@ -1,0 +1,16 @@
+allintext:password filetype:log after:2018
+filetype:log intext:"ConnectionManager2"
+intitle:index.of log
+filetype:log inurl:nginx
+filetype:log inurl:database
+filetype:log inurl:bin
+filetype:syslog
+allintext:username filetype:log
+filetype:log inurl:"password.log"
+filetype:log inurl:password.log
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:log "See `ipsec --copyright"
+filetype:log access.log -CVS
+filetype:log cron.log
+intitle:index.of cleanup.log
+intitle:index.of filetype:log

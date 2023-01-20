@@ -1,0 +1,7 @@
+intext:"index" of" ".sql"
+"index of""database.sql.zip" 
+Index of" inurl:phpMyAdmin
+extension:sql mysql dump
+extension:sql mysql dump password
+filename:.pgpass
+filename:dbeaver-data-sources.xml

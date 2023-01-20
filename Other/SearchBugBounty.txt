@@ -1,0 +1,57 @@
+inurl:bug bounty intext:token of gratitude
+inurl:bug bounty intext:token of appreciation
+inurl:vulnerability-disclosure intext:bounty
+inurl /bug bounty
+inurl : / security
+responsible disclosure r=h:eu
+responsible disclosure bounty r=h:nl
+responsible disclosure bounty r=h:uk
+responsible disclosure bounty r=h:eu
+responsible disclosure swag r=h:nl
+responsible disclosure swag r=h:uk
+responsible disclosure swag r=h:eu
+responsible disclosure reward r=h:nl
+responsible disclosure reward r=h:uk
+responsible disclosure reward r=h:eu
+inurl:'vulnerability-disclosure-policy' reward
+intext:Vulnerability Disclosure site:nl
+intext:Vulnerability Disclosure site:eu
+site:*.*.nl intext:security report reward
+site:*.*.nl intext:responsible disclosure reward
+"security vulnerability" "report"
+inurl"security report"
+"responsible disclosure" university
+inurl:/responsible-disclosure/ university
+buy bitcoins "bug bounty"
+inurl:/security ext:txt "contact"
+"powered by synack"
+site:*.*.de inurl:bug inurl:bounty
+site:*.*.uk intext:security report reward
+site:*.*.cn intext:security report reward
+"vulnerability reporting policy"
+"van de melding met een minimum van een" -site:responsibledisclosure.nl
+inurl:/security ext:txt "contact"
+inurl:responsible-disclosure-policy
+"If you believe you've found a security vulnerability"
+intext:"BugBounty" and intext:"BTC" and intext:"reward"
+intext:bounty inurl:/security
+inurl:"bug bounty" and intext:"€" and inurl:/security
+inurl:"bug bounty" and intext:"$" and inurl:/security
+inurl:"bug bounty" and intext:"INR" and inurl:/security
+inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
+/trust/report-a-vulnerability
+site:*.edu intext:security report vulnerability
+"cms" bug bounty
+intext:"bug bounty program" "@"
+intext:"USDT" inurl:"Bug-Bounty"
+intext:whitehat program reward
+inurl:report-a-bug intext:reward
+intext:you will receive a reward inurl:Bug bounty
+inurl:bug-bounty intext:cash rewards
+site:security.*.com intext:bug bounty
+site:security.*.* inurl: bounty
+vulnerability detection program reward
+intext:Cryptocurrency Exchange intext:Bug bounty
+inurl:bug bounty intext:token of gratitude
+inurl:bug bounty intext:token of appreciation
+inurl:vulnerability-disclosure intext:bounty

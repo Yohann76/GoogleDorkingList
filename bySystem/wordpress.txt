@@ -1,0 +1,14 @@
+inurl:wp-login.php?action=register
+intitle:"index of" intext:"Includes wordpress"
+intext:"wordpress" filetype:xls login & password
+intext:"the WordPress" inurl:wp-config ext:txt
+allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+inurl:"/wp-json/" -wordpress
+inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -
+inurl:wp-config.bak
+inurl:/wp-content/ai1wm-backups + wpress
+"index of" /wp-content/uploads/shell.php
+inurl:"/wp-content/uploads/db-backup"
+inurl:?wp-commentsrss2.php -git
+allinurl:mc4wp-debug.log ext:log
+filename:wp-config.php
